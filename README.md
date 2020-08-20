@@ -3,10 +3,10 @@
 
 <br>
 
-<b>Discipline | <b>The appellate decision will be team-based and reviewed.
+<b>Discipline | <b> Mechanical Engineering
 :--|:--|
-<b> Lab | <b> The appellate decision will be team-based and reviewed.
-<b> Experiment|     <b> 1. The appellate decision will be team-based and reviewed.
+<b> Lab | <b> Heat and Mass Transfer
+<b> Experiment|     <b> Conduction- Determine critical thickness of insulation of metal rod
 
 <h5> About the Lab (Objective) : </h5>
 
@@ -26,7 +26,7 @@ In this course student will be able to learn about the analysis of heat flow in 
 
 Type here: universities mapped
 
-<b>Name of Developer | <b> Smriti Mishra - - - - - -
+<b>Name of Developer | <b> Smriti Mishra 
 :--|:--|
 <b> Institute | <b> KIET Group of Institution, Delhi-NCR, Ghaziabad
 <b> Email id|     <b> smirti.mishra@kiet.edu
@@ -34,7 +34,7 @@ Type here: universities mapped
 
 #### Mentor Details
 
-<b>Mentored by | <b> T.S.S.Subramanian - - - - - -
+<b>Mentored by | <b> T.S.S.Subramanian
 :--|:--|
 <b> Institute | <b> Hindustan College of Science & Technology Mathura
 <b> Email id|     <b> tss.senthil.hcst@sgei.org
