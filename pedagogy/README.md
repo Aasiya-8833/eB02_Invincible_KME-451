@@ -42,13 +42,14 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <a name="IS"></a>
 #### 3. Instructional Strategy
+
 <u> <b>Name of Instructional Strategy  : </b> First students have to switch on the power and set the appropriate voltage and current readings. This power supply will heat up the metal rod which is covered with the PoP insulation. After the heating temperatures would be developed on metal surface and insulation surface and with the help of Newton’s Law of cooling convectivity coefficient could be evaluated and it will help to calculate the critical thickness of insulation.
     
 <u> <b>Assessment Method: </b> Assessment could be done on the basis of viva-voce. 
 
 <u> <b>Description: </b> of how you are going to implement the above Instructional Strategy in your Simulator: </u>
 <br>
- of how you are going to implement the above Instructional Strategy in your Simulator: In simulator a workpiece has taken on which a layer of insulation is considered. When the simulator starts and voltage and current value will be provided then heating would be started and on the basis of the heating simulator will provide temperature value and automatic calculation will occur that will give convectivity coefficient value and critical radius of insulation value.
+ In simulator a workpiece has taken on which a layer of insulation is considered. When the simulator starts and voltage and current value will be provided then heating would be started and on the basis of the heating simulator will provide temperature value and automatic calculation will occur that will give convectivity coefficient value and critical radius of insulation value.
 
 <br/>
 <div align="right">
@@ -65,20 +66,18 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.| User will be able to Improve his knowledge in the field  <br>of heat flow through conduction. | Student will supply power to the metal rod and  calculate amount of  <br> conduction and convection. | After adding insulation amount of heat conduction……… A.  Increases <br>
+1.| User will be able to Improve his knowledge in the  <br> field of heat flow through conduction | Student will supply power to the metal rod and  calculate amount of <br>  conduction and convection. | After adding insulation amount of heat conduction……… A.  Increases 
 <b> B.  decreases </b> 
 C. No Change 
 D. None of the above
-
-2.| User will be able to Understand the importance of insulation addition in  <br> conductive and convective heat transfer.. | Student will wait for the steady state and after that note down the value  <br> of temperature at different surfaces. | 1 After adding insulation amount of heat convection……… <br> <b> A. Increases </b> <br> B. Decreases <br> C. No Change <br>  D. None of the above   
-
+2.|  User will be able to Understand the importance of insulation addition in  <br> conductive and convective heat transfer.. | Student will wait for the steady state and after that note down the value  <br> of temperature at different surfaces. |  1 After adding insulation amount of heat convection……… <br> <b> A. Increases </b> <br> B. Decreases <br> C. No Change <br>  D. None of the above
 3.| User will be able to Apply his knowledge of critical radius to improve the   <br> amount of heat transfer. | Student will calculate the value of convectivity   <br>coefficient with the help of governing law of convection. | What is the governing law of convection? <br>
 A.  Wein’s displacement Law <br>
  B. Fourier’s Law <br>
 <b> C. Newton’s Law of Cooling  </b> <br>
 D. None of the above 
-
-4.| User will be able to Analyze and evaluate the conuctive and convective heat transfer coefficient and also determine the critical  <br> radius for particular material. |Student will calculate critical radius of   <br> insulation for the metal rod | What is the Formula of critical radius of insulation in case of cylindrical surface? <br> <b> A. k/h </b> <br> B. 2k/h <br> C. h/k <br>  D. k/2h  
+4.|  User will be able to Analyze and evaluate the conuctive and convective heat transfer coefficient and also determine the critical  <br> radius for particular material. | Student will calculate critical radius of   <br> insulation for the metal rod |  What is the Formula of critical radius of insulation in case of cylindrical surface? <br> <b> A. k/h </b> <br> B. 2k/h <br> C. h/k <br>  D. k/2h  
+    
 
 
 You can add more question. All questions may not be as MCQ
@@ -86,6 +85,9 @@ Please add the correct answer as well.
 or type the correct answer below the question.
 
  <br>
+
+ <u> You can add additional TASKS & Assessment Questions <u>
+<br/>
 
  <u> You can add additional TASKS & Assessment Questions <u>
 <br/>
