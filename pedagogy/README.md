@@ -27,10 +27,10 @@
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br> Improve his knowledge in the field of heat flow  <br> through conduction | [Knowledge](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Define] (http://vlabs.iitb.ac.in/vlabs-dev/document.php)
+1.| User will be able to: <br> Improve his knowledge in the field of heat flow  <br> through conduction | [Knowledge](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Define](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
 2.| User will be able to: <br>Understand the importance of insulation addition in conductive and convective heat  <br> transfer.. | [Comprehension](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Summarizes](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-3.| User will be able to: <br>Apply his knowledge of critical radius to  <br>improve the amount of heat transfer. | [Application](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Demonstrate](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-4.| User will be able to: <br>Analyze and evaluate the conuctive and convective heat transfer coefficient and also  <br> determine the critical radius for particular material. | [Analysis and Evaluation](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Compare , Conclude](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
+3.| User will be able to: <br>Apply his knowledge of critical radius to improve the amount of heat transfer. | [Application](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Demonstrate](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
+4.| User will be able to: <br>Analyze and evaluate the conuctive and convective heat transfer coefficient and also determine the critical radius for particular material. | [Analysis and Evaluation](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Compare , Conclude](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
 
 
 <br/>
@@ -42,9 +42,9 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <a name="IS"></a>
 #### 3. Instructional Strategy
-###### Name of Instructional Strategy  :    <u> First students have to switch on the power and set the appropriate voltage and current readings. This power supply will heat up the metal rod which is covered with the PoP insulation. After the heating temperatures would be developed on metal surface and insulation surface and with the help of Newton’s Law of cooling convectivity coefficient could be evaluated and it will help to calculate the critical thickness of insulation. </u>
+<u> <b>Name of Instructional Strategy  : </b> First students have to switch on the power and set the appropriate voltage and current readings. This power supply will heat up the metal rod which is covered with the PoP insulation. After the heating temperatures would be developed on metal surface and insulation surface and with the help of Newton’s Law of cooling convectivity coefficient could be evaluated and it will help to calculate the critical thickness of insulation.
     
-###### Assessment Method: Assessment could be done on the basis of viva-voce. 
+<u> <b>Assessment Method: </b> Assessment could be done on the basis of viva-voce. 
 
 <u> <b>Description: </b> of how you are going to implement the above Instructional Strategy in your Simulator: </u>
 <br>
@@ -66,8 +66,8 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
 1.| User will be able to Improve his knowledge in the field  <br>of heat flow through conduction. | Student will supply power to the metal rod and  calculate amount of  <br> conduction and convection. | After adding insulation amount of heat conduction……… A.  Increases <br>
-<b> B.  decreases </b> <br>
-C. No Change <br>
+<b> B.  decreases </b> 
+C. No Change 
 D. None of the above
 
 2.| User will be able to Understand the importance of insulation addition in  <br> conductive and convective heat transfer.. | Student will wait for the steady state and after that note down the value  <br> of temperature at different surfaces. | 1 After adding insulation amount of heat convection……… <br> <b> A. Increases </b> <br> B. Decreases <br> C. No Change <br>  D. None of the above   
