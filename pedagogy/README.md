@@ -66,31 +66,11 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.| User will be able to Improve his knowledge in the  <br> field of heat flow through conduction | Student will supply power to the metal rod and  calculate amount of <br>  conduction and convection. | After adding insulation amount of heat conduction……… A.  Increases 
-<b> B.  decreases </b> 
-C. No Change 
-D. None of the above
-2.|  User will be able to Understand the importance of insulation addition in  <br> conductive and convective heat transfer.. | Student will wait for the steady state and after that note down the value  <br> of temperature at different surfaces. |  1 After adding insulation amount of heat convection……… <br> <b> A. Increases </b> <br> B. Decreases <br> C. No Change <br>  D. None of the above
-3.| User will be able to Apply his knowledge of critical radius to improve the   <br> amount of heat transfer. | Student will calculate the value of convectivity   <br>coefficient with the help of governing law of convection. | What is the governing law of convection? <br>
-A.  Wein’s displacement Law <br>
- B. Fourier’s Law <br>
-<b> C. Newton’s Law of Cooling  </b> <br>
-D. None of the above 
+1.| User will be able to Improve his knowledge in the  <br> field of heat flow through conduction | Student will supply power to the metal rod and  calculate amount of <br>  conduction and convection. | After adding insulation amount of heat conduction……… <br> A. Increases <br> <b> B. decreases </b> <br> C. No Change <br> D. None of the above
+2.|  User will be able to Understand the importance of insulation addition in  <br> conductive and convective heat transfer.. | Student will wait for the steady state and after that note down the value  <br> of temperature at different surfaces. |   After adding insulation amount of heat convection……… <br> <b> A. Increases </b> <br> B. Decreases <br> C. No Change <br>  D. None of the above
+3.| User will be able to Apply his knowledge of critical radius to improve the   <br> amount of heat transfer. | Student will calculate the value of convectivity   <br>coefficient with the help of governing law of convection. | What is the governing law of convection? <br> A. Wein’s displacement Law <br> B. Fourier’s Law <br> <b> C. Newton’s Law of Cooling  </b> <br> D. None of the above 
 4.|  User will be able to Analyze and evaluate the conuctive and convective heat transfer coefficient and also determine the critical  <br> radius for particular material. | Student will calculate critical radius of   <br> insulation for the metal rod |  What is the Formula of critical radius of insulation in case of cylindrical surface? <br> <b> A. k/h </b> <br> B. 2k/h <br> C. h/k <br>  D. k/2h  
     
-
-
-You can add more question. All questions may not be as MCQ
-Please add the correct answer as well.
-or type the correct answer below the question.
-
- <br>
-
- <u> You can add additional TASKS & Assessment Questions <u>
-<br/>
-
- <u> You can add additional TASKS & Assessment Questions <u>
-<br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
 </div>
