@@ -24,7 +24,7 @@ In this course student will be able to learn about the analysis of heat flow in 
 
 <h5> Universities Mapped : </h5>
 
-Type here: universities mapped
+AKTU : universities mapped
 
 <b>Name of Developer | <b> Smriti Mishra 
 :--|:--|
