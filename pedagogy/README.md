@@ -3,7 +3,7 @@
 
 <br>
 <br>
-<b> Experiment ABCDEF Lab  <a name="top"></a> <br>
+<b> Experiment HMT Lab  <a name="top"></a> <br>
 </p>
 
 <b>Discipline | <b> Mechanical Engineering
