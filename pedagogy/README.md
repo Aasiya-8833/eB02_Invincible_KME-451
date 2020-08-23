@@ -27,10 +27,10 @@
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br> Improve his knowledge in the field of heat flow  <br> through conduction | [Knowledge](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Define](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-2.| User will be able to: <br>Understand the importance of insulation addition in conductive and convective heat  <br> transfer.. | [Comprehension](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Summarizes](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-3.| User will be able to: <br>Apply his knowledge of critical radius to improve the amount of heat transfer. | [Application](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Demonstrate](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-4.| User will be able to: <br>Analyze and evaluate the conuctive and convective heat transfer coefficient and also determine the critical radius for particular material. | [Analysis and Evaluation](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Compare , Conclude](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
+1.| User will be able to: <br> Describe the concept of critical radius of insulation. | [Understand](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Describe](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
+2.| User will be able to: <br>Calculate the convective heat transfer coefficient with the help of temperature of various surfaces. | [Apply](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Calculate](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
+3.| User will be able to: <br>Apply his knowledge of critical radius to improve the amount of heat transfer. | [Apply](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Apply](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
+4.| User will be able to: <br>Analyze and evaluate the conuctive and convective heat transfer coefficient and also determine the critical radius for particular material. | [Analysis and Evaluation](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Evaluate](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
 
 
 <br/>
