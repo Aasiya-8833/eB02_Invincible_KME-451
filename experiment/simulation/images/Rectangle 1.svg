@@ -1,0 +1,12 @@
+<svg width="479" height="481" viewBox="0 0 479 481" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="path-1-inside-1" fill="white">
+<rect width="479" height="481" rx="7"/>
+</mask>
+<rect width="479" height="481" rx="7" stroke="url(#paint0_radial)" stroke-width="20" mask="url(#path-1-inside-1)"/>
+<defs>
+<radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(240 196) rotate(89.2874) scale(402.031 400.359)">
+<stop/>
+<stop offset="1" stop-opacity="0.5"/>
+</radialGradient>
+</defs>
+</svg>
